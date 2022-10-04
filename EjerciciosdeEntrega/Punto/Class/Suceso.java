@@ -11,8 +11,8 @@ public class Suceso extends Punto3D {
         return super.equals(obj);
     }
     
-        public Suceso(int iX, int iY, int iZ) {
-            super(iX, iY, iZ);
+        public Suceso(int x, int y, int z) {
+            super(x, y, z);
             
         }
         
